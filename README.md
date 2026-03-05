@@ -3,7 +3,7 @@
 
 [About Me](https://about.waylake.com/) </div> <br/>
 
-[Blog](https://dev.waylake.com/) </div> <br />
+[Blog](http://waylake.github.io/) </div> <br />
 
 ---
 

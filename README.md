@@ -5,11 +5,6 @@
 
 [Blog](http://waylake.github.io/) </div> <br />
 
----
-
-## 👩‍💻 **GitHub Performance Insights**  👩‍💻<div align="center">
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=waylake&hide_title=true&show_icons=true&include_all_commits=true&theme=vision-friendly-dark&border_radius=15) 
 
 ---
 

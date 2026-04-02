@@ -1,4 +1,4 @@
-# 🪨 waylake
+# 道淵
 
 ![bg](https://waylake.github.io/assets/images/landing-bg.webp)
 

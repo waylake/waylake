@@ -9,4 +9,4 @@ Python · React · Next.js · AWS · DevOps
 
 ---
 
-[滙 · Blog](http://waylake.github.io/) · [聯 · LinkedIn](https://linkedin.com/in/waylake)
+[聯 · LinkedIn](https://linkedin.com/in/waylake)
